@@ -13,3 +13,9 @@
 1. [Implement Curry](https://bigfrontend.dev/problem/implement-curry) (JavaScript)
 2. [Implement curry() with placeholder support](https://bigfrontend.dev/problem/implement-curry-with-placeholder) `Not able to understand`
 3. [Basics of GSAP](https://www.youtube.com/watch?v=Sc64ZiW2xPA&t=5590s)
+
+---
+
+### `Day 3 (3/11/24):`
+
+Today nothing.

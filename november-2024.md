@@ -19,3 +19,10 @@
 ### `Day 3 (3/11/24):`
 
 Today nothing.
+
+---
+
+### `Day 4 (4/11/24):`
+
+1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+2. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)

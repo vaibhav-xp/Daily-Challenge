@@ -26,3 +26,9 @@ Today nothing.
 
 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 2. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+---
+
+### `Day 5 (5/11/24):`
+
+1. [Two Sum](https://leetcode.com/problems/two-sum/description/) (Array, Hash Table)

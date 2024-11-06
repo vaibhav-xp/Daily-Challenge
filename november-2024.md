@@ -32,3 +32,9 @@ Today nothing.
 ### `Day 5 (5/11/24):`
 
 1. [Two Sum](https://leetcode.com/problems/two-sum/description/) (Array, Hash Table)
+
+---
+
+### `Day 6 (6/12/2024):`
+
+1. Star pattern questions.

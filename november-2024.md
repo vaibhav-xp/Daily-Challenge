@@ -38,3 +38,11 @@ Today nothing.
 ### `Day 6 (6/12/2024):`
 
 1. Star pattern questions.
+
+---
+
+### `Day 7 (7/12/2024):`
+
+> Started Striver Sheeet
+
+1. [Find the largest element in an array](https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/)

@@ -48,3 +48,4 @@ Today nothing.
 1. [Find the largest element in an array](https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/)
 2. [Find the second larget element in an array](https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/)
 3. [Check if an array is sorted](https://takeuforward.org/data-structure/check-if-an-array-is-sorted/)
+4. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)

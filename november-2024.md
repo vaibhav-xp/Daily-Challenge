@@ -46,3 +46,4 @@ Today nothing.
 > Started Striver Sheeet
 
 1. [Find the largest element in an array](https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/)
+2. [Find the second larget element in an array](https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/)

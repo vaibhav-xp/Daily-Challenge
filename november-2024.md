@@ -56,3 +56,4 @@ Today nothing.
 
 1. [Left Rotate an array by one place](https://leetcode.com/problems/move-zeroes/submissions/1291947982/)
 2. [Left rotate an array by D places](https://leetcode.com/problems/rotate-array/)
+3. [Move Zeros to end](https://leetcode.com/problems/move-zeroes/)

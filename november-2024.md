@@ -57,3 +57,4 @@ Today nothing.
 1. [Left Rotate an array by one place](https://leetcode.com/problems/move-zeroes/submissions/1291947982/)
 2. [Left rotate an array by D places](https://leetcode.com/problems/rotate-array/)
 3. [Move Zeros to end](https://leetcode.com/problems/move-zeroes/)
+4. [Linear Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=who-will-win)

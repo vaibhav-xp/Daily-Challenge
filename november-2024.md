@@ -35,13 +35,13 @@ Today nothing.
 
 ---
 
-### `Day 6 (6/12/2024):`
+### `Day 6 (6/11/2024):`
 
 1. Star pattern questions.
 
 ---
 
-### `Day 7 (7/12/2024):`
+### `Day 7 (7/11/2024):`
 
 > Started Striver Sheeet
 
@@ -52,7 +52,7 @@ Today nothing.
 
 ---
 
-### `Day 8 (8/12/2024):`
+### `Day 8 (8/11/2024):`
 
 1. [Left Rotate an array by one place](https://leetcode.com/problems/move-zeroes/submissions/1291947982/)
 2. [Left rotate an array by D places](https://leetcode.com/problems/rotate-array/)

@@ -58,3 +58,9 @@ Today nothing.
 2. [Left rotate an array by D places](https://leetcode.com/problems/rotate-array/)
 3. [Move Zeros to end](https://leetcode.com/problems/move-zeroes/)
 4. [Linear Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=who-will-win)
+
+---
+
+### `Day 9 (9/11/202):`
+
+1. [Union of Two Sorted Arrays with Duplicate Elements](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays)

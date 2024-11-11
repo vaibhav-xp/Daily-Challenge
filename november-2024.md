@@ -61,6 +61,15 @@ Today nothing.
 
 ---
 
-### `Day 9 (9/11/202):`
+### `Day 9 (9/11/2024):`
 
 1. [Union of Two Sorted Arrays with Duplicate Elements](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays)
+
+---
+
+### `Day 10 (9/11/2024):`
+
+1. Selection Sort / Recursive Approach
+2. Insertion Sort
+3. Merge Sort
+4. Bubble Sort / Recursive Approach

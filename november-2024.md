@@ -67,9 +67,17 @@ Today nothing.
 
 ---
 
-### `Day 10 (9/11/2024):`
+### `Day 10 (10/11/2024):`
 
 1. Selection Sort / Recursive Approach
 2. Insertion Sort
 3. Merge Sort
 4. Bubble Sort / Recursive Approach
+
+---
+
+### `Day 11 (11/11/2024):`
+
+1. [Missing Number](https://leetcode.com/problems/missing-number/)
+2. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+3. [Single Number](https://leetcode.com/problems/single-number/)

@@ -88,3 +88,4 @@ Today nothing.
 
 1. [Longest subarray with given sum K(positives)](https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/)
 2. [Longest Subarray with given sum k (positive and negative)](https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/)
+3. [Two Sum](https://leetcode.com/problems/two-sum/description/)

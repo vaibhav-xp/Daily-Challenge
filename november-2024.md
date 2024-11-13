@@ -92,6 +92,6 @@ Today nothing.
 
 ---
 
-## `Day 11 (13/11/2024):`
+## `Day 13 (13/11/2024):`
 
 Doing brothers works. Creating landing page.

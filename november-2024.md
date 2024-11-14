@@ -84,7 +84,7 @@ Today nothing.
 
 ---
 
-## `Day 12 (12/11/2024):`
+### `Day 12 (12/11/2024):`
 
 1. [Longest subarray with given sum K(positives)](https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/)
 2. [Longest Subarray with given sum k (positive and negative)](https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/)
@@ -92,6 +92,13 @@ Today nothing.
 
 ---
 
-## `Day 13 (13/11/2024):`
+### `Day 13 (13/11/2024):`
 
 Doing brothers works. Creating landing page.
+
+---
+
+### `Day 14 (14/11/2024):`
+
+1. Moor's Voting algorithm
+2. Kadan's algorithm

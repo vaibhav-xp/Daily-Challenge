@@ -102,3 +102,11 @@ Doing brothers works. Creating landing page.
 
 1. Moor's Voting algorithm
 2. Kadan's algorithm
+
+---
+
+### `Day 15 (15/11/2024):`
+
+1. [Kadane's Algorithm, maximum subarray sum](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/)
+2. [Print subarray with maximum subarray sum (extended version of above problem)](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/)
+3. [Stock Buy and Sell](https://takeuforward.org/data-structure/stock-buy-and-sell/)
